@@ -1,2 +1,2 @@
 # TestRepos
-Learning CI/CD
+Learning CI/CD. This is my first Github tutorial.
